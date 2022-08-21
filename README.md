@@ -39,7 +39,7 @@ pip3 install pymeshlab
 ## Step 2 -- Install and build *mesh_fusion_gpu*
 ### Install *mesh_fusion*
 ```
-git clone https://github.com/UncleTom111/mesh_fusion_gpu.git
+git clone https://github.com/UncleTom111/ONet_mesh_fusion_gpu.git
 ```
 ### Build *mesh_fusion*
 #### build pyfusion
